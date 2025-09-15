@@ -19,7 +19,19 @@ namespace _24SOEIT13019_RUTVIK_17
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+           
+        }
 
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+          
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            
         }
     }
+}
 }
